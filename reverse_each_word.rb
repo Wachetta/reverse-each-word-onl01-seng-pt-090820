@@ -6,4 +6,3 @@ array = []
   array.each{|x| array << "#{x}".reverse}
 return array
       end
-end
